@@ -25,5 +25,7 @@ public class contactTest {
 	public void createContactWithDate()
 	{
 		System.out.println("Contact Created with Date");
+		System.out.println("Contact Created with Date git push");
+
 	}
 }
